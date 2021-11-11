@@ -1,2 +1,8 @@
 #Ignoramos el Color 
 Color.txt
+
+#Ignoramos la Epoca ya que no es necesaria
+Epoca.txt 
+
+#Ignoramos la Clase
+Clase.txt
